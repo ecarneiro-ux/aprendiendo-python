@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Caches de herramientas
+.pytest_cache/
+.ruff_cache/
+
+# Editor
+.vscode/
